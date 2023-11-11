@@ -1,4 +1,6 @@
-# SRM-SDG-2023
+# SRM SDG HACKATHON 
+# INTEL ONE API 
+# TEAM GrowEco
 
 The oneAPI-samples repository contains samples for the Intel® oneAPI Toolkits.
 The contents of the default branch in this repository are meant to be used with the most recent released version of the Intel® oneAPI Toolkits.
